@@ -1,0 +1,19 @@
+body{
+    color: rgb(87, 44, 0);
+    background-color: #def3f3f1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serifs';
+    font-size:large;
+    list-style-type: none;
+}
+footer img{
+    width: 1300px;
+    height: 800px;
+    list-style-type: none;
+    margin: 25px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
